@@ -1,6 +1,6 @@
 #include <gtest/gtest.h>
 #include "StringCalculator.h"
-
+int add (const char* input);
 TEST(StringCalculatorAddTests, ExpectZeroForEmptyInput) {
     int expectedresult = 0;
     const char* input = "";
