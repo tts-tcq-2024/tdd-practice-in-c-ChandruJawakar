@@ -1,4 +1,4 @@
-Int add (input)
+int add (input)
 {
   if (input =="")
 
