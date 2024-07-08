@@ -1,4 +1,4 @@
-int add (input)
+int add (const char* input)
 {
   if (input =="")
 
